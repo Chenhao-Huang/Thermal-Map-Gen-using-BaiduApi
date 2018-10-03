@@ -15,5 +15,5 @@
 2. 把步骤一的运行结果复制到网页中，在网页上生成热力图，见thermal_map.html.  
 * 注意: 上述两个文件中“您的密钥”，需要替换成步骤0中所生成的密钥。
 More reference:  
-百度api live demo: http://lbsyun.baidu.com/index.php?title=jspopular
+百度api live demo: http://lbsyun.baidu.com/index.php?title=jspopular  
 https://www.jianshu.com/p/773ff5f08a2c
